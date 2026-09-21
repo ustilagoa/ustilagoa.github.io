@@ -84,4 +84,4 @@ This policy may be revised to reflect legal requirements or new App features. Th
 ### 7. Contact
 
 - Developer: ustilagoa
-- Email: [ustilagoa@icloud.com](mailto:ustilagoa@icloud.com)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
