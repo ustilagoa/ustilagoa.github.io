@@ -16,10 +16,15 @@ GitHub Pages（Jekyll）で `https://ustilagoa.github.io/` に公開している
 ## アプリを追加するとき
 
 1. フォルダを1つ作る
-2. `index.md` と `privacy.md` を置く（`permalink` を忘れずに）
+2. `index.md` と `privacy.md` を置く（`permalink` を忘れずに）。
+   `index.md` の front matter に `appstore:` を書けば、`{{ page.appstore }}` で
+   App Store リンクを置ける（ボタンの見た目は `.cta`）
 3. `index.md`（トップ）の一覧に1行足す
 
 共通の文章は `{% raw %}{% include contact.md %}{% endraw %}` のように差し込む。同じ文章を2箇所に書かない。
+
+連絡先メールアドレスは `_config.yml` の `email` に書き、`{{ site.email }}` で引く。
+レイアウトからも include からもページ本文からも、同じ書き方で参照できる。
 
 ## App Store Connect に入れるURL
 
