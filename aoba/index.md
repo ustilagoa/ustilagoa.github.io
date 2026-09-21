@@ -3,11 +3,14 @@ layout: default
 title: 青葉 サポート
 permalink: /aoba/
 description: 青葉（Aoba）— 青空文庫を紙の本の読み心地で読む、縦書きの読書アプリ
+appstore: https://apps.apple.com/jp/app/id6808213458
 ---
 
 青空文庫を、紙の本の読み心地で。
 
 無料で読める名作文学1万7千冊以上。縦書き・ページめくり・自動で続きから読める機能で、iPhone と iPad が、そのまま文庫本になる。
+
+<a class="cta" href="{{ page.appstore }}">App Store で入手（無料）</a>
 
 [プライバシーポリシー]({{ '/aoba/privacy/' | relative_url }})
 
@@ -44,6 +47,12 @@ description: 青葉（Aoba）— 青空文庫を紙の本の読み心地で読�
 > 本アプリは個人が開発したものであり、青空文庫からの公認・関与を受けたものではありません。収録データの出典・著作権表記はアプリ内「設定 > ライセンス・著作権表記」をご覧ください。
 >
 > 広告・アクセス解析・トラッキングは一切行っておらず、読書データはすべて端末内に保存されます。
+
+## 入手する
+
+<a class="cta" href="{{ page.appstore }}">App Store で入手（無料）</a>
+
+iPhone / iPad 向け。無料で、アプリ内課金も広告もありません。
 
 ## お問い合わせ
 

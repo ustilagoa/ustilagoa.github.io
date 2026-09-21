@@ -77,6 +77,12 @@
     background: var(--warn-soft); border-left: 3px solid var(--warn);
   }
   blockquote > :last-child { margin-bottom: 0; }
+  .cta {
+    display: inline-block; text-decoration: none;
+    background: var(--accent); color: var(--surface);
+    font-weight: 700; padding: 0.7rem 1.5rem;
+  }
+  .cta:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   .card {
     display: block; text-decoration: none; color: inherit;
     background: var(--surface); border: 1px solid var(--rule);
