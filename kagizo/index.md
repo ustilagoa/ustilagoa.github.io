@@ -3,9 +3,12 @@ layout: default
 title: 鍵蔵 サポート
 permalink: /kagizo/
 description: 鍵蔵（Kagizo）のよくある質問、安全のしくみ、お問い合わせ
+appstore: https://apps.apple.com/jp/app/id6811362999
 ---
 
 鍵蔵（かぎぞう）は、パスワードをこの端末の中だけで管理するアプリです。通信する機能を持たないため、保存した内容が外部のサーバーや iCloud に送られることはありません。
+
+<a class="cta" href="{{ page.appstore }}">App Store で入手（無料）</a>
 
 [プライバシーポリシー]({{ '/kagizo/privacy/' | relative_url }})
 
@@ -117,6 +120,12 @@ description: 鍵蔵（Kagizo）のよくある質問、安全のしくみ、お�
 | 表示言語 | 日本語 |
 | 価格 | 無料（アプリ内課金・サブスクリプション・広告なし） |
 | 通信 | なし |
+
+## 入手する
+
+<a class="cta" href="{{ page.appstore }}">App Store で入手（無料）</a>
+
+iPhone / iPad 向け。無料で、アプリ内課金も広告もありません。
 
 ## お問い合わせ
 
