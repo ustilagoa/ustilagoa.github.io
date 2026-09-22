@@ -23,7 +23,7 @@ GitHub Pages（Jekyll）で `https://ustilagoa.github.io/` に公開している
 
 共通の文章は `{% include contact.md %}` のように差し込む。同じ文章を2箇所に書かない。
 
-連絡先メールアドレスは `_config.yml` の `email` に書き、`{{ site.email }}` で引く。
+問い合わせ先は `_config.yml` の `contact_form` に書き、`{{ site.contact_form }}` で引く。
 レイアウトからも include からもページ本文からも、同じ書き方で参照できる。
 
 ## App Store Connect に入れるURL

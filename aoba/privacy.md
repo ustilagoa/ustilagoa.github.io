@@ -84,4 +84,4 @@ This policy may be revised to reflect legal requirements or new App features. Th
 ### 7. Contact
 
 - Developer: ustilagoa
-- Email: [{{ site.email }}](mailto:{{ site.email }})
+- [Contact form]({{ site.contact_form }})
