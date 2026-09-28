@@ -107,6 +107,6 @@ appstore: https://apps.apple.com/jp/app/id6808213458
 
 iPhone / iPad 向け。無料で、アプリ内課金も広告もありません。
 
-## お問い合わせ
+## お問い合わせ {#contact}
 
 {% include contact.md %}
