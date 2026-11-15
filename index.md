@@ -17,6 +17,11 @@ description: iPhone / iPad 向けアプリのサポートとプライバシー�
   <span>青空文庫を紙の本の読み心地で読む、縦書きの読書アプリ。</span>
 </a>
 
+<a class="card" href="{{ '/memoliobooks/' | relative_url }}">
+  <strong>メモリオ書籍</strong>
+  <span>読み終えた本をバーコードひと読みで記録する読書記録アプリ。</span>
+</a>
+
 ## お問い合わせ
 
 {% include contact.md %}
