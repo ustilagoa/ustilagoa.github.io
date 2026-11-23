@@ -3,8 +3,7 @@ layout: default
 title: メモリオ書籍 サポート
 permalink: /memoliobooks/
 description: メモリオ書籍（MemolioBooks）— 読み終えた本を、バーコードで記録する読書記録アプリ
-# リリースを押したら、次の行のコメントを外してプッシュする（公開前はリンクが404になる）
-# appstore: https://apps.apple.com/jp/app/id6829985993
+appstore: https://apps.apple.com/jp/app/id6829985993
 ---
 
 読み終えた本を、バーコードひと読みで。
